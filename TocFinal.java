@@ -1,4 +1,9 @@
-/* Author: 林展翔 Dept: EE(junior) StudentID: E24019067 */
+/* Author: 林展翔  Dept: EE(junior) StudentID: E24019067 
+   Filename: TocFinal.java  
+   Associated files: Key2.java, Key3.java, Key4.java
+   Output file: output.txt
+   Program function: calculate & print top-k L-combinations
+   Input command format: TocFinal URL top_k L_combinations   */
 
 import java.io.*;
 import java.net.*;	// for downloading file
